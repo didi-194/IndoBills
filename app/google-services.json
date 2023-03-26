@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284749371082",
+    "project_id": "uas-mobprog-c2a7a",
+    "storage_bucket": "uas-mobprog-c2a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284749371082:android:39ea061ba1078777ff0633",
+        "android_client_info": {
+          "package_name": "com.example.uas_mobprog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284749371082-42kf13h46ehvpb3il99sfjdc5clcr5sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkS4ocvAs1HbCvaj84hAyMav2dX5PUrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284749371082-42kf13h46ehvpb3il99sfjdc5clcr5sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
