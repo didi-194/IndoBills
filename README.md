@@ -24,6 +24,16 @@ Add, edit, and delete bills and expenses
 * Firebase Authentication
 * Firebase Realtime Database
 
+### demo
+
+![alt text](https://i.imgur.com/gxPN1kA.png)
+![alt text](https://i.imgur.com/gutNjBK.png)
+![alt text](https://imgur.com/tOaaEtK.png)
+![alt text](https://imgur.com/mKS6UMK.png)
+![alt text](https://imgur.com/qneEyvg.png)
+
+
+
 ### Contributors
 
 Didi-194
